@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cpico.png">
+<SubTexture name="Gunshot0000" x="407" y="359" width="442" height="281" frameX="-8" frameY="-50" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0001" x="0" y="688" width="480" height="281" frameX="-8" frameY="-50" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0002" x="864" y="0" width="494" height="320" frameX="-11" frameY="-12" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0003" x="864" y="320" width="463" height="320" frameX="-11" frameY="-12" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0004" x="0" y="0" width="445" height="359" frameX="-12" frameY="-5" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0005" x="445" y="0" width="215" height="359" frameX="-12" frameY="-5" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0006" x="660" y="0" width="204" height="329" frameX="-6" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0007" x="660" y="0" width="204" height="329" frameX="-6" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0008" x="0" y="359" width="204" height="329" frameX="-8" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0009" x="0" y="359" width="204" height="329" frameX="-8" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0010" x="204" y="359" width="203" height="329" frameX="-10" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0011" x="204" y="359" width="203" height="329" frameX="-10" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0012" x="204" y="359" width="203" height="329" frameX="-10" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0013" x="204" y="359" width="203" height="329" frameX="-10" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0014" x="204" y="359" width="203" height="329" frameX="-10" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0015" x="204" y="359" width="203" height="329" frameX="-10" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0016" x="204" y="359" width="203" height="329" frameX="-10" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0017" x="204" y="359" width="203" height="329" frameX="-10" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0018" x="204" y="359" width="203" height="329" frameX="-10" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0019" x="204" y="359" width="203" height="329" frameX="-10" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0020" x="204" y="359" width="203" height="329" frameX="-10" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0021" x="204" y="359" width="203" height="329" frameX="-10" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0022" x="204" y="359" width="203" height="329" frameX="-10" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0023" x="204" y="359" width="203" height="329" frameX="-10" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0024" x="204" y="359" width="203" height="329" frameX="-10" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0025" x="204" y="359" width="203" height="329" frameX="-10" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0026" x="204" y="359" width="203" height="329" frameX="-10" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0027" x="204" y="359" width="203" height="329" frameX="-10" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0028" x="204" y="359" width="203" height="329" frameX="-10" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Gunshot0029" x="204" y="359" width="203" height="329" frameX="-10" frameY="-2" frameWidth="505" frameHeight="363" />
+<SubTexture name="Pico Down0000" x="704" y="1232" width="229" height="257" frameX="0" frameY="-16" frameWidth="256" frameHeight="287" />
+<SubTexture name="Pico Down0001" x="704" y="1232" width="229" height="257" frameX="0" frameY="-16" frameWidth="256" frameHeight="287" />
+<SubTexture name="Pico Down0002" x="0" y="1232" width="228" height="258" frameX="-1" frameY="-15" frameWidth="256" frameHeight="287" />
+<SubTexture name="Pico Down0003" x="0" y="1232" width="228" height="258" frameX="-1" frameY="-15" frameWidth="256" frameHeight="287" />
+<SubTexture name="Pico Down0004" x="1358" y="0" width="227" height="259" frameX="-2" frameY="-15" frameWidth="256" frameHeight="287" />
+<SubTexture name="Pico Down0005" x="1358" y="0" width="227" height="259" frameX="-2" frameY="-15" frameWidth="256" frameHeight="287" />
+<SubTexture name="Pico Down0006" x="1358" y="259" width="226" height="259" frameX="-2" frameY="-15" frameWidth="256" frameHeight="287" />
+<SubTexture name="Pico Down0007" x="1358" y="259" width="226" height="259" frameX="-2" frameY="-15" frameWidth="256" frameHeight="287" />
+<SubTexture name="Pico Down0008" x="1358" y="259" width="226" height="259" frameX="-2" frameY="-15" frameWidth="256" frameHeight="287" />
+<SubTexture name="Pico Down0009" x="1358" y="259" width="226" height="259" frameX="-2" frameY="-15" frameWidth="256" frameHeight="287" />
+<SubTexture name="Pico Down0010" x="1358" y="259" width="226" height="259" frameX="-2" frameY="-15" frameWidth="256" frameHeight="287" />
+<SubTexture name="Pico Down0011" x="1358" y="259" width="226" height="259" frameX="-2" frameY="-15" frameWidth="256" frameHeight="287" />
+<SubTexture name="Pico Down0012" x="1358" y="259" width="226" height="259" frameX="-2" frameY="-15" frameWidth="256" frameHeight="287" />
+<SubTexture name="Pico Down0013" x="1358" y="259" width="226" height="259" frameX="-2" frameY="-15" frameWidth="256" frameHeight="287" />
+<SubTexture name="Pico Idle0000" x="228" y="1232" width="231" height="258" frameX="0" frameY="-6" frameWidth="249" frameHeight="277" />
+<SubTexture name="Pico Idle0001" x="228" y="1232" width="231" height="258" frameX="0" frameY="-6" frameWidth="249" frameHeight="277" />
+<SubTexture name="Pico Idle0002" x="866" y="970" width="229" height="260" frameX="-1" frameY="-5" frameWidth="249" frameHeight="277" />
+<SubTexture name="Pico Idle0003" x="866" y="970" width="229" height="260" frameX="-1" frameY="-5" frameWidth="249" frameHeight="277" />
+<SubTexture name="Pico Idle0004" x="946" y="688" width="231" height="263" frameX="-2" frameY="-2" frameWidth="249" frameHeight="277" />
+<SubTexture name="Pico Idle0005" x="946" y="688" width="231" height="263" frameX="-2" frameY="-2" frameWidth="249" frameHeight="277" />
+<SubTexture name="Pico Idle0006" x="713" y="688" width="233" height="264" frameX="-2" frameY="0" frameWidth="249" frameHeight="277" />
+<SubTexture name="Pico Idle0007" x="713" y="688" width="233" height="264" frameX="-2" frameY="0" frameWidth="249" frameHeight="277" />
+<SubTexture name="Pico Idle0008" x="480" y="688" width="233" height="265" frameX="-2" frameY="0" frameWidth="249" frameHeight="277" />
+<SubTexture name="Pico Idle0009" x="480" y="688" width="233" height="265" frameX="-2" frameY="0" frameWidth="249" frameHeight="277" />
+<SubTexture name="Pico Idle0010" x="480" y="688" width="233" height="265" frameX="-2" frameY="0" frameWidth="249" frameHeight="277" />
+<SubTexture name="Pico Idle0011" x="480" y="688" width="233" height="265" frameX="-2" frameY="0" frameWidth="249" frameHeight="277" />
+<SubTexture name="Pico Idle0012" x="480" y="688" width="233" height="265" frameX="-2" frameY="0" frameWidth="249" frameHeight="277" />
+<SubTexture name="Pico Idle0013" x="480" y="688" width="233" height="265" frameX="-2" frameY="0" frameWidth="249" frameHeight="277" />
+<SubTexture name="Pico Left0000" x="0" y="970" width="217" height="262" frameX="-8" frameY="-7" frameWidth="260" frameHeight="282" />
+<SubTexture name="Pico Left0001" x="0" y="970" width="217" height="262" frameX="-8" frameY="-7" frameWidth="260" frameHeight="282" />
+<SubTexture name="Pico Left0002" x="648" y="970" width="218" height="261" frameX="-9" frameY="-8" frameWidth="260" frameHeight="282" />
+<SubTexture name="Pico Left0003" x="648" y="970" width="218" height="261" frameX="-9" frameY="-8" frameWidth="260" frameHeight="282" />
+<SubTexture name="Pico Left0004" x="432" y="970" width="216" height="262" frameX="-9" frameY="-8" frameWidth="260" frameHeight="282" />
+<SubTexture name="Pico Left0005" x="432" y="970" width="216" height="262" frameX="-9" frameY="-8" frameWidth="260" frameHeight="282" />
+<SubTexture name="Pico Left0006" x="217" y="970" width="215" height="262" frameX="-9" frameY="-7" frameWidth="260" frameHeight="282" />
+<SubTexture name="Pico Left0007" x="217" y="970" width="215" height="262" frameX="-9" frameY="-7" frameWidth="260" frameHeight="282" />
+<SubTexture name="Pico Left0008" x="217" y="970" width="215" height="262" frameX="-9" frameY="-7" frameWidth="260" frameHeight="282" />
+<SubTexture name="Pico Left0009" x="217" y="970" width="215" height="262" frameX="-9" frameY="-7" frameWidth="260" frameHeight="282" />
+<SubTexture name="Pico Left0010" x="217" y="970" width="215" height="262" frameX="-9" frameY="-7" frameWidth="260" frameHeight="282" />
+<SubTexture name="Pico Left0011" x="217" y="970" width="215" height="262" frameX="-9" frameY="-7" frameWidth="260" frameHeight="282" />
+<SubTexture name="Pico Left0012" x="217" y="970" width="215" height="262" frameX="-9" frameY="-7" frameWidth="260" frameHeight="282" />
+<SubTexture name="Pico Left0013" x="217" y="970" width="215" height="262" frameX="-9" frameY="-7" frameWidth="260" frameHeight="282" />
+<SubTexture name="Pico Right0000" x="460" y="1232" width="244" height="258" frameX="-3" frameY="-3" frameWidth="251" frameHeight="274" />
+<SubTexture name="Pico Right0001" x="460" y="1232" width="244" height="258" frameX="-3" frameY="-3" frameWidth="251" frameHeight="274" />
+<SubTexture name="Pico Right0002" x="933" y="1232" width="239" height="256" frameX="-3" frameY="-5" frameWidth="251" frameHeight="274" />
+<SubTexture name="Pico Right0003" x="933" y="1232" width="239" height="256" frameX="-3" frameY="-5" frameWidth="251" frameHeight="274" />
+<SubTexture name="Pico Right0004" x="0" y="1491" width="233" height="255" frameX="-3" frameY="-6" frameWidth="251" frameHeight="274" />
+<SubTexture name="Pico Right0005" x="0" y="1491" width="233" height="255" frameX="-3" frameY="-6" frameWidth="251" frameHeight="274" />
+<SubTexture name="Pico Right0006" x="1172" y="1232" width="232" height="256" frameX="-3" frameY="-5" frameWidth="251" frameHeight="274" />
+<SubTexture name="Pico Right0007" x="1172" y="1232" width="232" height="256" frameX="-3" frameY="-5" frameWidth="251" frameHeight="274" />
+<SubTexture name="Pico Right0008" x="1172" y="1232" width="232" height="256" frameX="-3" frameY="-5" frameWidth="251" frameHeight="274" />
+<SubTexture name="Pico Right0009" x="1172" y="1232" width="232" height="256" frameX="-3" frameY="-5" frameWidth="251" frameHeight="274" />
+<SubTexture name="Pico Right0010" x="1172" y="1232" width="232" height="256" frameX="-3" frameY="-5" frameWidth="251" frameHeight="274" />
+<SubTexture name="Pico Right0011" x="1172" y="1232" width="232" height="256" frameX="-3" frameY="-5" frameWidth="251" frameHeight="274" />
+<SubTexture name="Pico Right0012" x="1172" y="1232" width="232" height="256" frameX="-3" frameY="-5" frameWidth="251" frameHeight="274" />
+<SubTexture name="Pico Right0013" x="1172" y="1232" width="232" height="256" frameX="-3" frameY="-5" frameWidth="251" frameHeight="274" />
+<SubTexture name="Pico Up0000" x="1096" y="970" width="225" height="259" frameX="-4" frameY="-20" frameWidth="249" frameHeight="290" />
+<SubTexture name="Pico Up0001" x="1096" y="970" width="225" height="259" frameX="-4" frameY="-20" frameWidth="249" frameHeight="290" />
+<SubTexture name="Pico Up0002" x="1585" y="0" width="232" height="255" frameX="-1" frameY="-23" frameWidth="249" frameHeight="290" />
+<SubTexture name="Pico Up0003" x="1585" y="0" width="232" height="255" frameX="-1" frameY="-23" frameWidth="249" frameHeight="290" />
+<SubTexture name="Pico Up0004" x="1585" y="510" width="232" height="254" frameX="-1" frameY="-24" frameWidth="249" frameHeight="290" />
+<SubTexture name="Pico Up0005" x="1585" y="510" width="232" height="254" frameX="-1" frameY="-24" frameWidth="249" frameHeight="290" />
+<SubTexture name="Pico Up0006" x="1585" y="255" width="229" height="254" frameX="-1" frameY="-24" frameWidth="249" frameHeight="290" />
+<SubTexture name="Pico Up0007" x="1585" y="255" width="229" height="254" frameX="-1" frameY="-24" frameWidth="249" frameHeight="290" />
+<SubTexture name="Pico Up0008" x="1585" y="255" width="229" height="254" frameX="-1" frameY="-24" frameWidth="249" frameHeight="290" />
+<SubTexture name="Pico Up0009" x="1585" y="255" width="229" height="254" frameX="-1" frameY="-24" frameWidth="249" frameHeight="290" />
+<SubTexture name="Pico Up0010" x="1585" y="255" width="229" height="254" frameX="-1" frameY="-24" frameWidth="249" frameHeight="290" />
+<SubTexture name="Pico Up0011" x="1585" y="255" width="229" height="254" frameX="-1" frameY="-24" frameWidth="249" frameHeight="290" />
+<SubTexture name="Pico Up0012" x="1585" y="255" width="229" height="254" frameX="-1" frameY="-24" frameWidth="249" frameHeight="290" />
+<SubTexture name="Pico Up0013" x="1585" y="255" width="229" height="254" frameX="-1" frameY="-24" frameWidth="249" frameHeight="290" />
+<SubTexture name="Reload0000" x="1818" y="249" width="252" height="248" frameX="0" frameY="-32" frameWidth="278" frameHeight="312" />
+<SubTexture name="Reload0001" x="1818" y="249" width="252" height="248" frameX="0" frameY="-32" frameWidth="278" frameHeight="312" />
+<SubTexture name="Reload0002" x="737" y="1491" width="252" height="250" frameX="0" frameY="-29" frameWidth="278" frameHeight="312" />
+<SubTexture name="Reload0003" x="737" y="1491" width="252" height="250" frameX="0" frameY="-29" frameWidth="278" frameHeight="312" />
+<SubTexture name="Reload0004" x="233" y="1491" width="252" height="251" frameX="0" frameY="-29" frameWidth="278" frameHeight="312" />
+<SubTexture name="Reload0005" x="233" y="1491" width="252" height="251" frameX="0" frameY="-29" frameWidth="278" frameHeight="312" />
+<SubTexture name="Reload0006" x="1241" y="1491" width="252" height="249" frameX="0" frameY="-30" frameWidth="278" frameHeight="312" />
+<SubTexture name="Reload0007" x="1241" y="1491" width="252" height="249" frameX="0" frameY="-30" frameWidth="278" frameHeight="312" />
+<SubTexture name="Reload0008" x="989" y="1491" width="252" height="250" frameX="0" frameY="-29" frameWidth="278" frameHeight="312" />
+<SubTexture name="Reload0009" x="989" y="1491" width="252" height="250" frameX="0" frameY="-29" frameWidth="278" frameHeight="312" />
+<SubTexture name="Reload0010" x="485" y="1491" width="252" height="251" frameX="0" frameY="-29" frameWidth="278" frameHeight="312" />
+<SubTexture name="Reload0011" x="485" y="1491" width="252" height="251" frameX="0" frameY="-32" frameWidth="278" frameHeight="312" />
+<SubTexture name="Reload0012" x="1818" y="497" width="252" height="248" frameX="0" frameY="-32" frameWidth="278" frameHeight="312" />
+<SubTexture name="Reload0013" x="1818" y="497" width="252" height="248" frameX="0" frameY="-32" frameWidth="278" frameHeight="312" />
+<SubTexture name="Reload0014" x="989" y="1491" width="252" height="250" frameX="0" frameY="-32" frameWidth="278" frameHeight="312" />
+<SubTexture name="Reload0015" x="989" y="1491" width="252" height="250" frameX="0" frameY="-32" frameWidth="278" frameHeight="312" />
+<SubTexture name="Reload0016" x="485" y="1491" width="252" height="251" frameX="0" frameY="-32" frameWidth="278" frameHeight="312" />
+<SubTexture name="Reload0017" x="485" y="1491" width="252" height="251" frameX="0" frameY="-32" frameWidth="278" frameHeight="312" />
+<SubTexture name="Reload0018" x="1493" y="1491" width="252" height="249" frameX="0" frameY="-30" frameWidth="278" frameHeight="312" />
+<SubTexture name="Reload0019" x="1818" y="0" width="252" height="249" frameX="0" frameY="-30" frameWidth="278" frameHeight="312" />
+</TextureAtlas>

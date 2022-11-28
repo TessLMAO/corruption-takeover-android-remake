@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="C2PicoDay2.png">
+<SubTexture name="CPico ALT Down0000" x="1142" y="258" width="222" height="257" frameX="0" frameY="-18" frameWidth="231" frameHeight="275" />
+<SubTexture name="CPico ALT Down0001" x="1142" y="258" width="222" height="257" frameX="0" frameY="-18" frameWidth="231" frameHeight="275" />
+<SubTexture name="CPico ALT Down0002" x="674" y="791" width="222" height="258" frameX="-1" frameY="-17" frameWidth="231" frameHeight="275" />
+<SubTexture name="CPico ALT Down0003" x="674" y="791" width="222" height="258" frameX="-1" frameY="-17" frameWidth="231" frameHeight="275" />
+<SubTexture name="CPico ALT Down0004" x="913" y="519" width="222" height="259" frameX="-2" frameY="-16" frameWidth="231" frameHeight="275" />
+<SubTexture name="CPico ALT Down0005" x="913" y="519" width="222" height="259" frameX="-2" frameY="-16" frameWidth="231" frameHeight="275" />
+<SubTexture name="CPico ALT Down0006" x="0" y="791" width="220" height="259" frameX="-2" frameY="-16" frameWidth="231" frameHeight="275" />
+<SubTexture name="CPico ALT Down0007" x="0" y="791" width="220" height="259" frameX="-2" frameY="-16" frameWidth="231" frameHeight="275" />
+<SubTexture name="CPico ALT Down0008" x="0" y="791" width="220" height="259" frameX="-2" frameY="-16" frameWidth="231" frameHeight="275" />
+<SubTexture name="CPico ALT Down0009" x="0" y="791" width="220" height="259" frameX="-2" frameY="-16" frameWidth="231" frameHeight="275" />
+<SubTexture name="CPico ALT Down0010" x="0" y="791" width="220" height="259" frameX="-2" frameY="-16" frameWidth="231" frameHeight="275" />
+<SubTexture name="CPico ALT Down0011" x="0" y="791" width="220" height="259" frameX="-2" frameY="-16" frameWidth="231" frameHeight="275" />
+<SubTexture name="CPico ALT Down0012" x="0" y="791" width="220" height="259" frameX="-2" frameY="-16" frameWidth="231" frameHeight="275" />
+<SubTexture name="CPico ALT Down0013" x="0" y="791" width="220" height="259" frameX="-2" frameY="-16" frameWidth="231" frameHeight="275" />
+<SubTexture name="CPico ALT Idle0000" x="1612" y="0" width="214" height="247" frameX="-20" frameY="-18" frameWidth="249" frameHeight="266" />
+<SubTexture name="CPico ALT Idle0001" x="1612" y="0" width="214" height="247" frameX="-20" frameY="-18" frameWidth="249" frameHeight="266" />
+<SubTexture name="CPico ALT Idle0002" x="1332" y="1308" width="210" height="249" frameX="-21" frameY="-16" frameWidth="249" frameHeight="266" />
+<SubTexture name="CPico ALT Idle0003" x="1332" y="1308" width="210" height="249" frameX="-21" frameY="-16" frameWidth="249" frameHeight="266" />
+<SubTexture name="CPico ALT Idle0004" x="1121" y="1308" width="211" height="251" frameX="-21" frameY="-15" frameWidth="249" frameHeight="266" />
+<SubTexture name="CPico ALT Idle0005" x="1121" y="1308" width="211" height="251" frameX="-21" frameY="-15" frameWidth="249" frameHeight="266" />
+<SubTexture name="CPico ALT Idle0006" x="908" y="1308" width="213" height="251" frameX="-21" frameY="-14" frameWidth="249" frameHeight="266" />
+<SubTexture name="CPico ALT Idle0007" x="908" y="1308" width="213" height="251" frameX="-21" frameY="-14" frameWidth="249" frameHeight="266" />
+<SubTexture name="CPico ALT Idle0008" x="694" y="1308" width="213" height="252" frameX="-21" frameY="-14" frameWidth="249" frameHeight="266" />
+<SubTexture name="CPico ALT Idle0009" x="694" y="1308" width="213" height="252" frameX="-21" frameY="-14" frameWidth="249" frameHeight="266" />
+<SubTexture name="CPico ALT Idle0010" x="694" y="1308" width="213" height="252" frameX="-21" frameY="-14" frameWidth="249" frameHeight="266" />
+<SubTexture name="CPico ALT Idle0011" x="694" y="1308" width="213" height="252" frameX="-21" frameY="-14" frameWidth="249" frameHeight="266" />
+<SubTexture name="CPico ALT Idle0012" x="694" y="1308" width="213" height="252" frameX="-21" frameY="-14" frameWidth="249" frameHeight="266" />
+<SubTexture name="CPico ALT Idle0013" x="694" y="1308" width="213" height="252" frameX="-21" frameY="-14" frameWidth="249" frameHeight="266" />
+<SubTexture name="CPico ALT Left0000" x="0" y="266" width="211" height="262" frameX="-8" frameY="-7" frameWidth="226" frameHeight="269" />
+<SubTexture name="CPico ALT Left0001" x="0" y="266" width="211" height="262" frameX="-8" frameY="-7" frameWidth="226" frameHeight="269" />
+<SubTexture name="CPico ALT Left0002" x="216" y="529" width="212" height="261" frameX="-9" frameY="-8" frameWidth="226" frameHeight="269" />
+<SubTexture name="CPico ALT Left0003" x="216" y="529" width="212" height="261" frameX="-9" frameY="-8" frameWidth="226" frameHeight="269" />
+<SubTexture name="CPico ALT Left0004" x="698" y="262" width="210" height="262" frameX="-9" frameY="-8" frameWidth="226" frameHeight="269" />
+<SubTexture name="CPico ALT Left0005" x="698" y="262" width="210" height="262" frameX="-9" frameY="-8" frameWidth="226" frameHeight="269" />
+<SubTexture name="CPico ALT Left0006" x="211" y="266" width="209" height="262" frameX="-9" frameY="-7" frameWidth="226" frameHeight="269" />
+<SubTexture name="CPico ALT Left0007" x="211" y="266" width="209" height="262" frameX="-9" frameY="-7" frameWidth="226" frameHeight="269" />
+<SubTexture name="CPico ALT Left0008" x="211" y="266" width="209" height="262" frameX="-9" frameY="-7" frameWidth="226" frameHeight="269" />
+<SubTexture name="CPico ALT Left0009" x="211" y="266" width="209" height="262" frameX="-9" frameY="-7" frameWidth="226" frameHeight="269" />
+<SubTexture name="CPico ALT Left0010" x="211" y="266" width="209" height="262" frameX="-9" frameY="-7" frameWidth="226" frameHeight="269" />
+<SubTexture name="CPico ALT Left0011" x="211" y="266" width="209" height="262" frameX="-9" frameY="-7" frameWidth="226" frameHeight="269" />
+<SubTexture name="CPico ALT Left0012" x="211" y="266" width="209" height="262" frameX="-9" frameY="-7" frameWidth="226" frameHeight="269" />
+<SubTexture name="CPico ALT Left0013" x="211" y="266" width="209" height="262" frameX="-9" frameY="-7" frameWidth="226" frameHeight="269" />
+<SubTexture name="CPico ALT Right0000" x="897" y="791" width="235" height="258" frameX="-3" frameY="-2" frameWidth="238" frameHeight="260" />
+<SubTexture name="CPico ALT Right0001" x="897" y="791" width="235" height="258" frameX="-3" frameY="-2" frameWidth="238" frameHeight="260" />
+<SubTexture name="CPico ALT Right0002" x="930" y="1050" width="236" height="256" frameX="0" frameY="-4" frameWidth="238" frameHeight="260" />
+<SubTexture name="CPico ALT Right0003" x="930" y="1050" width="236" height="256" frameX="0" frameY="-4" frameWidth="238" frameHeight="260" />
+<SubTexture name="CPico ALT Right0004" x="1142" y="770" width="227" height="254" frameX="-3" frameY="-6" frameWidth="238" frameHeight="260" />
+<SubTexture name="CPico ALT Right0005" x="1142" y="770" width="227" height="254" frameX="-3" frameY="-6" frameWidth="238" frameHeight="260" />
+<SubTexture name="CPico ALT Right0006" x="1371" y="256" width="226" height="256" frameX="-3" frameY="-5" frameWidth="238" frameHeight="260" />
+<SubTexture name="CPico ALT Right0007" x="1371" y="256" width="226" height="256" frameX="-3" frameY="-5" frameWidth="238" frameHeight="260" />
+<SubTexture name="CPico ALT Right0008" x="1371" y="256" width="226" height="256" frameX="-3" frameY="-5" frameWidth="238" frameHeight="260" />
+<SubTexture name="CPico ALT Right0009" x="1371" y="256" width="226" height="256" frameX="-3" frameY="-5" frameWidth="238" frameHeight="260" />
+<SubTexture name="CPico ALT Right0010" x="1371" y="256" width="226" height="256" frameX="-3" frameY="-5" frameWidth="238" frameHeight="260" />
+<SubTexture name="CPico ALT Right0011" x="1371" y="256" width="226" height="256" frameX="-3" frameY="-5" frameWidth="238" frameHeight="260" />
+<SubTexture name="CPico ALT Right0012" x="1371" y="256" width="226" height="256" frameX="-3" frameY="-5" frameWidth="238" frameHeight="260" />
+<SubTexture name="CPico ALT Right0013" x="1371" y="256" width="226" height="256" frameX="-3" frameY="-5" frameWidth="238" frameHeight="260" />
+<SubTexture name="CPico ALT Up0000" x="647" y="529" width="221" height="260" frameX="-4" frameY="-17" frameWidth="246" frameHeight="277" />
+<SubTexture name="CPico ALT Up0001" x="647" y="529" width="221" height="260" frameX="-4" frameY="-17" frameWidth="246" frameHeight="277" />
+<SubTexture name="CPico ALT Up0002" x="472" y="1050" width="229" height="257" frameX="-1" frameY="-20" frameWidth="246" frameHeight="277" />
+<SubTexture name="CPico ALT Up0003" x="472" y="1050" width="229" height="257" frameX="-1" frameY="-20" frameWidth="246" frameHeight="277" />
+<SubTexture name="CPico ALT Up0004" x="1371" y="1024" width="228" height="255" frameX="-1" frameY="-22" frameWidth="246" frameHeight="277" />
+<SubTexture name="CPico ALT Up0005" x="1371" y="1024" width="228" height="255" frameX="-1" frameY="-22" frameWidth="246" frameHeight="277" />
+<SubTexture name="CPico ALT Up0006" x="1142" y="515" width="225" height="255" frameX="-1" frameY="-22" frameWidth="246" frameHeight="277" />
+<SubTexture name="CPico ALT Up0007" x="1142" y="515" width="225" height="255" frameX="-1" frameY="-22" frameWidth="246" frameHeight="277" />
+<SubTexture name="CPico ALT Up0008" x="1142" y="515" width="225" height="255" frameX="-1" frameY="-22" frameWidth="246" frameHeight="277" />
+<SubTexture name="CPico ALT Up0009" x="1142" y="515" width="225" height="255" frameX="-1" frameY="-22" frameWidth="246" frameHeight="277" />
+<SubTexture name="CPico ALT Up0010" x="1142" y="515" width="225" height="255" frameX="-1" frameY="-22" frameWidth="246" frameHeight="277" />
+<SubTexture name="CPico ALT Up0011" x="1142" y="515" width="225" height="255" frameX="-1" frameY="-22" frameWidth="246" frameHeight="277" />
+<SubTexture name="CPico ALT Up0012" x="1142" y="515" width="225" height="255" frameX="-1" frameY="-22" frameWidth="246" frameHeight="277" />
+<SubTexture name="CPico ALT Up0013" x="1142" y="515" width="225" height="255" frameX="-1" frameY="-22" frameWidth="246" frameHeight="277" />
+<SubTexture name="CPico Down0000" x="701" y="1050" width="229" height="257" frameX="0" frameY="-18" frameWidth="254" frameHeight="275" />
+<SubTexture name="CPico Down0001" x="701" y="1050" width="229" height="257" frameX="0" frameY="-18" frameWidth="254" frameHeight="275" />
+<SubTexture name="CPico Down0002" x="1142" y="0" width="228" height="258" frameX="-1" frameY="-17" frameWidth="254" frameHeight="275" />
+<SubTexture name="CPico Down0003" x="1142" y="0" width="228" height="258" frameX="-1" frameY="-17" frameWidth="254" frameHeight="275" />
+<SubTexture name="CPico Down0004" x="220" y="791" width="227" height="259" frameX="-2" frameY="-16" frameWidth="254" frameHeight="275" />
+<SubTexture name="CPico Down0005" x="220" y="791" width="227" height="259" frameX="-2" frameY="-16" frameWidth="254" frameHeight="275" />
+<SubTexture name="CPico Down0006" x="448" y="791" width="226" height="259" frameX="-2" frameY="-16" frameWidth="254" frameHeight="275" />
+<SubTexture name="CPico Down0007" x="448" y="791" width="226" height="259" frameX="-2" frameY="-16" frameWidth="254" frameHeight="275" />
+<SubTexture name="CPico Down0008" x="448" y="791" width="226" height="259" frameX="-2" frameY="-16" frameWidth="254" frameHeight="275" />
+<SubTexture name="CPico Down0009" x="448" y="791" width="226" height="259" frameX="-2" frameY="-16" frameWidth="254" frameHeight="275" />
+<SubTexture name="CPico Down0010" x="448" y="791" width="226" height="259" frameX="-2" frameY="-16" frameWidth="254" frameHeight="275" />
+<SubTexture name="CPico Down0011" x="448" y="791" width="226" height="259" frameX="-2" frameY="-16" frameWidth="254" frameHeight="275" />
+<SubTexture name="CPico Down0012" x="448" y="791" width="226" height="259" frameX="-2" frameY="-16" frameWidth="254" frameHeight="275" />
+<SubTexture name="CPico Down0013" x="448" y="791" width="226" height="259" frameX="-2" frameY="-16" frameWidth="254" frameHeight="275" />
+<SubTexture name="CPico Idle0000" x="0" y="1050" width="231" height="258" frameX="0" frameY="-10" frameWidth="242" frameHeight="269" />
+<SubTexture name="CPico Idle0001" x="0" y="1050" width="231" height="258" frameX="0" frameY="-10" frameWidth="242" frameHeight="269" />
+<SubTexture name="CPico Idle0002" x="913" y="0" width="229" height="260" frameX="-1" frameY="-9" frameWidth="242" frameHeight="269" />
+<SubTexture name="CPico Idle0003" x="913" y="0" width="229" height="260" frameX="-1" frameY="-9" frameWidth="242" frameHeight="269" />
+<SubTexture name="CPico Idle0004" x="466" y="0" width="231" height="263" frameX="-2" frameY="-6" frameWidth="242" frameHeight="269" />
+<SubTexture name="CPico Idle0005" x="466" y="0" width="231" height="263" frameX="-2" frameY="-6" frameWidth="242" frameHeight="269" />
+<SubTexture name="CPico Idle0006" x="233" y="0" width="233" height="266" frameX="-2" frameY="-3" frameWidth="242" frameHeight="269" />
+<SubTexture name="CPico Idle0007" x="233" y="0" width="233" height="266" frameX="-2" frameY="-3" frameWidth="242" frameHeight="269" />
+<SubTexture name="CPico Idle0008" x="0" y="0" width="233" height="266" frameX="-2" frameY="-3" frameWidth="242" frameHeight="269" />
+<SubTexture name="CPico Idle0009" x="0" y="0" width="233" height="266" frameX="-2" frameY="-3" frameWidth="242" frameHeight="269" />
+<SubTexture name="CPico Idle0010" x="0" y="0" width="233" height="266" frameX="-2" frameY="-3" frameWidth="242" frameHeight="269" />
+<SubTexture name="CPico Idle0011" x="0" y="0" width="233" height="266" frameX="-2" frameY="-3" frameWidth="242" frameHeight="269" />
+<SubTexture name="CPico Idle0012" x="0" y="0" width="233" height="266" frameX="-2" frameY="-3" frameWidth="242" frameHeight="269" />
+<SubTexture name="CPico Idle0013" x="0" y="0" width="233" height="266" frameX="-2" frameY="-3" frameWidth="242" frameHeight="269" />
+<SubTexture name="CPico Left0000" x="420" y="266" width="217" height="262" frameX="-8" frameY="-7" frameWidth="233" frameHeight="269" />
+<SubTexture name="CPico Left0001" x="420" y="266" width="217" height="262" frameX="-8" frameY="-7" frameWidth="233" frameHeight="269" />
+<SubTexture name="CPico Left0002" x="429" y="529" width="218" height="261" frameX="-9" frameY="-8" frameWidth="233" frameHeight="269" />
+<SubTexture name="CPico Left0003" x="429" y="529" width="218" height="261" frameX="-9" frameY="-8" frameWidth="233" frameHeight="269" />
+<SubTexture name="CPico Left0004" x="0" y="529" width="216" height="262" frameX="-9" frameY="-8" frameWidth="233" frameHeight="269" />
+<SubTexture name="CPico Left0005" x="0" y="529" width="216" height="262" frameX="-9" frameY="-8" frameWidth="233" frameHeight="269" />
+<SubTexture name="CPico Left0006" x="698" y="0" width="215" height="262" frameX="-9" frameY="-7" frameWidth="233" frameHeight="269" />
+<SubTexture name="CPico Left0007" x="698" y="0" width="215" height="262" frameX="-9" frameY="-7" frameWidth="233" frameHeight="269" />
+<SubTexture name="CPico Left0008" x="698" y="0" width="215" height="262" frameX="-9" frameY="-7" frameWidth="233" frameHeight="269" />
+<SubTexture name="CPico Left0009" x="698" y="0" width="215" height="262" frameX="-9" frameY="-7" frameWidth="233" frameHeight="269" />
+<SubTexture name="CPico Left0010" x="698" y="0" width="215" height="262" frameX="-9" frameY="-7" frameWidth="233" frameHeight="269" />
+<SubTexture name="CPico Left0011" x="698" y="0" width="215" height="262" frameX="-9" frameY="-7" frameWidth="233" frameHeight="269" />
+<SubTexture name="CPico Left0012" x="698" y="0" width="215" height="262" frameX="-9" frameY="-7" frameWidth="233" frameHeight="269" />
+<SubTexture name="CPico Left0013" x="698" y="0" width="215" height="262" frameX="-9" frameY="-7" frameWidth="233" frameHeight="269" />
+<SubTexture name="CPico Right0000" x="231" y="1050" width="240" height="258" frameX="-3" frameY="-3" frameWidth="243" frameHeight="261" />
+<SubTexture name="CPico Right0001" x="231" y="1050" width="240" height="258" frameX="-3" frameY="-3" frameWidth="243" frameHeight="261" />
+<SubTexture name="CPico Right0002" x="1371" y="0" width="241" height="256" frameX="0" frameY="-5" frameWidth="243" frameHeight="261" />
+<SubTexture name="CPico Right0003" x="1371" y="0" width="241" height="256" frameX="0" frameY="-5" frameWidth="243" frameHeight="261" />
+<SubTexture name="CPico Right0004" x="0" y="1308" width="233" height="255" frameX="-3" frameY="-6" frameWidth="243" frameHeight="261" />
+<SubTexture name="CPico Right0005" x="0" y="1308" width="233" height="255" frameX="-3" frameY="-6" frameWidth="243" frameHeight="261" />
+<SubTexture name="CPico Right0006" x="1371" y="512" width="232" height="256" frameX="-3" frameY="-5" frameWidth="243" frameHeight="261" />
+<SubTexture name="CPico Right0007" x="1371" y="512" width="232" height="256" frameX="-3" frameY="-5" frameWidth="243" frameHeight="261" />
+<SubTexture name="CPico Right0008" x="1371" y="512" width="232" height="256" frameX="-3" frameY="-5" frameWidth="243" frameHeight="261" />
+<SubTexture name="CPico Right0009" x="1371" y="512" width="232" height="256" frameX="-3" frameY="-5" frameWidth="243" frameHeight="261" />
+<SubTexture name="CPico Right0010" x="1371" y="512" width="232" height="256" frameX="-3" frameY="-5" frameWidth="243" frameHeight="261" />
+<SubTexture name="CPico Right0011" x="1371" y="512" width="232" height="256" frameX="-3" frameY="-5" frameWidth="243" frameHeight="261" />
+<SubTexture name="CPico Right0012" x="1371" y="512" width="232" height="256" frameX="-3" frameY="-5" frameWidth="243" frameHeight="261" />
+<SubTexture name="CPico Right0013" x="1371" y="512" width="232" height="256" frameX="-3" frameY="-5" frameWidth="243" frameHeight="261" />
+<SubTexture name="CPico Up0000" x="913" y="260" width="225" height="259" frameX="-4" frameY="-15" frameWidth="251" frameHeight="274" />
+<SubTexture name="CPico Up0001" x="913" y="260" width="225" height="259" frameX="-4" frameY="-15" frameWidth="251" frameHeight="274" />
+<SubTexture name="CPico Up0002" x="1371" y="768" width="232" height="255" frameX="-1" frameY="-19" frameWidth="251" frameHeight="274" />
+<SubTexture name="CPico Up0003" x="1371" y="768" width="232" height="255" frameX="-1" frameY="-19" frameWidth="251" frameHeight="274" />
+<SubTexture name="CPico Up0004" x="462" y="1308" width="232" height="254" frameX="-1" frameY="-20" frameWidth="251" frameHeight="274" />
+<SubTexture name="CPico Up0005" x="462" y="1308" width="232" height="254" frameX="-1" frameY="-20" frameWidth="251" frameHeight="274" />
+<SubTexture name="CPico Up0006" x="233" y="1308" width="229" height="254" frameX="-1" frameY="-19" frameWidth="251" frameHeight="274" />
+<SubTexture name="CPico Up0007" x="233" y="1308" width="229" height="254" frameX="-1" frameY="-19" frameWidth="251" frameHeight="274" />
+<SubTexture name="CPico Up0008" x="233" y="1308" width="229" height="254" frameX="-1" frameY="-19" frameWidth="251" frameHeight="274" />
+<SubTexture name="CPico Up0009" x="233" y="1308" width="229" height="254" frameX="-1" frameY="-19" frameWidth="251" frameHeight="274" />
+<SubTexture name="CPico Up0010" x="233" y="1308" width="229" height="254" frameX="-1" frameY="-19" frameWidth="251" frameHeight="274" />
+<SubTexture name="CPico Up0011" x="233" y="1308" width="229" height="254" frameX="-1" frameY="-19" frameWidth="251" frameHeight="274" />
+<SubTexture name="CPico Up0012" x="233" y="1308" width="229" height="254" frameX="-1" frameY="-19" frameWidth="251" frameHeight="274" />
+<SubTexture name="CPico Up0013" x="233" y="1308" width="229" height="254" frameX="-1" frameY="-19" frameWidth="251" frameHeight="274" />
+</TextureAtlas>

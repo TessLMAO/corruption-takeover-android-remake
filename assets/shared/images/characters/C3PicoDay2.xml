@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="C3PicoDay2.png">
+<SubTexture name="C2Pico ALT Down0000" x="1129" y="775" width="222" height="257" frameX="0" frameY="-18" frameWidth="231" frameHeight="275" />
+<SubTexture name="C2Pico ALT Down0001" x="1129" y="775" width="222" height="257" frameX="0" frameY="-18" frameWidth="231" frameHeight="275" />
+<SubTexture name="C2Pico ALT Down0002" x="674" y="789" width="222" height="258" frameX="-1" frameY="-17" frameWidth="231" frameHeight="275" />
+<SubTexture name="C2Pico ALT Down0003" x="674" y="789" width="222" height="258" frameX="-1" frameY="-17" frameWidth="231" frameHeight="275" />
+<SubTexture name="C2Pico ALT Down0004" x="899" y="519" width="222" height="259" frameX="-2" frameY="-16" frameWidth="231" frameHeight="275" />
+<SubTexture name="C2Pico ALT Down0005" x="899" y="519" width="222" height="259" frameX="-2" frameY="-16" frameWidth="231" frameHeight="275" />
+<SubTexture name="C2Pico ALT Down0006" x="0" y="789" width="220" height="259" frameX="-2" frameY="-16" frameWidth="231" frameHeight="275" />
+<SubTexture name="C2Pico ALT Down0007" x="0" y="789" width="220" height="259" frameX="-2" frameY="-16" frameWidth="231" frameHeight="275" />
+<SubTexture name="C2Pico ALT Down0008" x="0" y="789" width="220" height="259" frameX="-2" frameY="-16" frameWidth="231" frameHeight="275" />
+<SubTexture name="C2Pico ALT Down0009" x="0" y="789" width="220" height="259" frameX="-2" frameY="-16" frameWidth="231" frameHeight="275" />
+<SubTexture name="C2Pico ALT Down0010" x="0" y="789" width="220" height="259" frameX="-2" frameY="-16" frameWidth="231" frameHeight="275" />
+<SubTexture name="C2Pico ALT Down0011" x="0" y="789" width="220" height="259" frameX="-2" frameY="-16" frameWidth="231" frameHeight="275" />
+<SubTexture name="C2Pico ALT Down0012" x="0" y="789" width="220" height="259" frameX="-2" frameY="-16" frameWidth="231" frameHeight="275" />
+<SubTexture name="C2Pico ALT Down0013" x="0" y="789" width="220" height="259" frameX="-2" frameY="-16" frameWidth="231" frameHeight="275" />
+<SubTexture name="C2Pico ALT Idle0000" x="1590" y="1258" width="214" height="247" frameX="-20" frameY="-18" frameWidth="249" frameHeight="266" />
+<SubTexture name="C2Pico ALT Idle0001" x="1590" y="1258" width="214" height="247" frameX="-20" frameY="-18" frameWidth="249" frameHeight="266" />
+<SubTexture name="C2Pico ALT Idle0002" x="1590" y="1008" width="210" height="249" frameX="-21" frameY="-16" frameWidth="249" frameHeight="266" />
+<SubTexture name="C2Pico ALT Idle0003" x="1590" y="1008" width="210" height="249" frameX="-21" frameY="-1" frameWidth="249" frameHeight="266" />
+<SubTexture name="C2Pico ALT Idle0004" x="1590" y="757" width="211" height="251" frameX="-21" frameY="-15" frameWidth="249" frameHeight="266" />
+<SubTexture name="C2Pico ALT Idle0005" x="1590" y="757" width="211" height="251" frameX="-21" frameY="-15" frameWidth="249" frameHeight="266" />
+<SubTexture name="C2Pico ALT Idle0006" x="1590" y="506" width="213" height="251" frameX="-21" frameY="-14" frameWidth="249" frameHeight="266" />
+<SubTexture name="C2Pico ALT Idle0007" x="1590" y="506" width="213" height="251" frameX="-21" frameY="-14" frameWidth="249" frameHeight="266" />
+<SubTexture name="C2Pico ALT Idle0008" x="1590" y="254" width="213" height="252" frameX="-21" frameY="-14" frameWidth="249" frameHeight="266" />
+<SubTexture name="C2Pico ALT Idle0009" x="1590" y="254" width="213" height="252" frameX="-21" frameY="-14" frameWidth="249" frameHeight="266" />
+<SubTexture name="C2Pico ALT Idle0010" x="1590" y="254" width="213" height="252" frameX="-21" frameY="-14" frameWidth="249" frameHeight="266" />
+<SubTexture name="C2Pico ALT Idle0011" x="1590" y="254" width="213" height="252" frameX="-21" frameY="-14" frameWidth="249" frameHeight="266" />
+<SubTexture name="C2Pico ALT Idle0012" x="1590" y="254" width="213" height="252" frameX="-21" frameY="-14" frameWidth="249" frameHeight="266" />
+<SubTexture name="C2Pico ALT Idle0013" x="1590" y="254" width="213" height="252" frameX="-21" frameY="-14" frameWidth="249" frameHeight="266" />
+<SubTexture name="C2Pico ALT Left0000" x="0" y="265" width="211" height="262" frameX="-8" frameY="-7" frameWidth="227" frameHeight="269" />
+<SubTexture name="C2Pico ALT Left0001" x="0" y="265" width="211" height="262" frameX="-8" frameY="-7" frameWidth="227" frameHeight="269" />
+<SubTexture name="C2Pico ALT Left0002" x="216" y="527" width="212" height="261" frameX="-9" frameY="-8" frameWidth="227" frameHeight="269" />
+<SubTexture name="C2Pico ALT Left0003" x="216" y="527" width="212" height="261" frameX="-9" frameY="-8" frameWidth="227" frameHeight="269" />
+<SubTexture name="C2Pico ALT Left0004" x="684" y="262" width="210" height="262" frameX="-9" frameY="-8" frameWidth="227" frameHeight="269" />
+<SubTexture name="C2Pico ALT Left0005" x="684" y="262" width="210" height="262" frameX="-9" frameY="-8" frameWidth="227" frameHeight="269" />
+<SubTexture name="C2Pico ALT Left0006" x="211" y="265" width="209" height="262" frameX="-9" frameY="-7" frameWidth="227" frameHeight="269" />
+<SubTexture name="C2Pico ALT Left0007" x="211" y="265" width="209" height="262" frameX="-9" frameY="-7" frameWidth="227" frameHeight="269" />
+<SubTexture name="C2Pico ALT Left0008" x="211" y="265" width="209" height="262" frameX="-9" frameY="-7" frameWidth="227" frameHeight="269" />
+<SubTexture name="C2Pico ALT Left0009" x="211" y="265" width="209" height="262" frameX="-9" frameY="-7" frameWidth="227" frameHeight="269" />
+<SubTexture name="C2Pico ALT Left0010" x="211" y="265" width="209" height="262" frameX="-9" frameY="-7" frameWidth="227" frameHeight="269" />
+<SubTexture name="C2Pico ALT Left0011" x="211" y="265" width="209" height="262" frameX="-9" frameY="-7" frameWidth="227" frameHeight="269" />
+<SubTexture name="C2Pico ALT Left0012" x="211" y="265" width="209" height="262" frameX="-9" frameY="-7" frameWidth="227" frameHeight="269" />
+<SubTexture name="C2Pico ALT Left0013" x="211" y="265" width="209" height="262" frameX="-9" frameY="-7" frameWidth="227" frameHeight="269" />
+<SubTexture name="C2Pico ALT Right0000" x="1129" y="0" width="235" height="258" frameX="-3" frameY="-2" frameWidth="238" frameHeight="260" />
+<SubTexture name="C2Pico ALT Right0001" x="1129" y="0" width="235" height="258" frameX="-3" frameY="-2" frameWidth="238" frameHeight="260" />
+<SubTexture name="C2Pico ALT Right0002" x="470" y="1048" width="236" height="256" frameX="0" frameY="-4" frameWidth="238" frameHeight="260" />
+<SubTexture name="C2Pico ALT Right0003" x="470" y="1048" width="236" height="256" frameX="0" frameY="-4" frameWidth="238" frameHeight="260" />
+<SubTexture name="C2Pico ALT Right0004" x="925" y="1307" width="227" height="254" frameX="-3" frameY="-6" frameWidth="238" frameHeight="260" />
+<SubTexture name="C2Pico ALT Right0005" x="925" y="1307" width="227" height="254" frameX="-3" frameY="-6" frameWidth="238" frameHeight="260" />
+<SubTexture name="C2Pico ALT Right0006" x="947" y="1048" width="226" height="256" frameX="-3" frameY="-5" frameWidth="238" frameHeight="260" />
+<SubTexture name="C2Pico ALT Right0007" x="947" y="1048" width="226" height="256" frameX="-3" frameY="-5" frameWidth="238" frameHeight="260" />
+<SubTexture name="C2Pico ALT Right0008" x="947" y="1048" width="226" height="256" frameX="-3" frameY="-5" frameWidth="238" frameHeight="260" />
+<SubTexture name="C2Pico ALT Right0009" x="947" y="1048" width="226" height="256" frameX="-3" frameY="-5" frameWidth="238" frameHeight="260" />
+<SubTexture name="C2Pico ALT Right0010" x="947" y="1048" width="226" height="256" frameX="-3" frameY="-5" frameWidth="238" frameHeight="260" />
+<SubTexture name="C2Pico ALT Right0011" x="947" y="1048" width="226" height="256" frameX="-3" frameY="-5" frameWidth="238" frameHeight="260" />
+<SubTexture name="C2Pico ALT Right0012" x="947" y="1048" width="226" height="256" frameX="-3" frameY="-5" frameWidth="238" frameHeight="260" />
+<SubTexture name="C2Pico ALT Right0013" x="947" y="1048" width="226" height="256" frameX="-3" frameY="-5" frameWidth="238" frameHeight="260" />
+<SubTexture name="C2Pico ALT Up0000" x="647" y="527" width="221" height="260" frameX="-4" frameY="-17" frameWidth="246" frameHeight="277" />
+<SubTexture name="C2Pico ALT Up0001" x="647" y="527" width="221" height="260" frameX="-4" frameY="-18" frameWidth="246" frameHeight="277" />
+<SubTexture name="C2Pico ALT Up0002" x="897" y="789" width="229" height="257" frameX="-1" frameY="-20" frameWidth="246" frameHeight="277" />
+<SubTexture name="C2Pico ALT Up0003" x="897" y="789" width="229" height="257" frameX="-1" frameY="-20" frameWidth="246" frameHeight="277" />
+<SubTexture name="C2Pico ALT Up0004" x="464" y="1307" width="228" height="255" frameX="-1" frameY="-22" frameWidth="246" frameHeight="277" />
+<SubTexture name="C2Pico ALT Up0005" x="464" y="1307" width="228" height="255" frameX="-1" frameY="-22" frameWidth="246" frameHeight="277" />
+<SubTexture name="C2Pico ALT Up0006" x="1364" y="0" width="225" height="256" frameX="-1" frameY="-22" frameWidth="246" frameHeight="277" />
+<SubTexture name="C2Pico ALT Up0007" x="1364" y="0" width="225" height="256" frameX="-1" frameY="-22" frameWidth="246" frameHeight="277" />
+<SubTexture name="C2Pico ALT Up0008" x="1364" y="0" width="225" height="256" frameX="-1" frameY="-22" frameWidth="246" frameHeight="277" />
+<SubTexture name="C2Pico ALT Up0009" x="1364" y="0" width="225" height="256" frameX="-1" frameY="-22" frameWidth="246" frameHeight="277" />
+<SubTexture name="C2Pico ALT Up0010" x="1364" y="0" width="225" height="256" frameX="-1" frameY="-22" frameWidth="246" frameHeight="277" />
+<SubTexture name="C2Pico ALT Up0011" x="1364" y="0" width="225" height="256" frameX="-1" frameY="-22" frameWidth="246" frameHeight="277" />
+<SubTexture name="C2Pico ALT Up0012" x="1364" y="0" width="225" height="256" frameX="-1" frameY="-22" frameWidth="246" frameHeight="277" />
+<SubTexture name="C2Pico ALT Up0013" x="1364" y="0" width="225" height="256" frameX="-1" frameY="-22" frameWidth="246" frameHeight="277" />
+<SubTexture name="C2Pico Down0000" x="240" y="1048" width="229" height="257" frameX="0" frameY="-16" frameWidth="256" frameHeight="273" />
+<SubTexture name="C2Pico Down0001" x="240" y="1048" width="229" height="257" frameX="0" frameY="-16" frameWidth="256" frameHeight="273" />
+<SubTexture name="C2Pico Down0002" x="1129" y="258" width="228" height="258" frameX="-1" frameY="-15" frameWidth="256" frameHeight="273" />
+<SubTexture name="C2Pico Down0003" x="1129" y="258" width="228" height="258" frameX="-1" frameY="-15" frameWidth="256" frameHeight="273" />
+<SubTexture name="C2Pico Down0004" x="220" y="789" width="227" height="259" frameX="-2" frameY="-15" frameWidth="256" frameHeight="273" />
+<SubTexture name="C2Pico Down0005" x="220" y="789" width="227" height="259" frameX="-2" frameY="-15" frameWidth="256" frameHeight="273" />
+<SubTexture name="C2Pico Down0006" x="448" y="789" width="226" height="259" frameX="-2" frameY="-15" frameWidth="256" frameHeight="273" />
+<SubTexture name="C2Pico Down0007" x="448" y="789" width="226" height="259" frameX="-2" frameY="-15" frameWidth="256" frameHeight="273" />
+<SubTexture name="C2Pico Down0008" x="448" y="789" width="226" height="259" frameX="-2" frameY="-15" frameWidth="256" frameHeight="273" />
+<SubTexture name="C2Pico Down0009" x="448" y="789" width="226" height="259" frameX="-2" frameY="-15" frameWidth="256" frameHeight="273" />
+<SubTexture name="C2Pico Down0010" x="448" y="789" width="226" height="259" frameX="-2" frameY="-15" frameWidth="256" frameHeight="273" />
+<SubTexture name="C2Pico Down0011" x="448" y="789" width="226" height="259" frameX="-2" frameY="-15" frameWidth="256" frameHeight="273" />
+<SubTexture name="C2Pico Down0012" x="448" y="789" width="226" height="259" frameX="-2" frameY="-15" frameWidth="256" frameHeight="273" />
+<SubTexture name="C2Pico Down0013" x="448" y="789" width="226" height="259" frameX="-2" frameY="-15" frameWidth="256" frameHeight="273" />
+<SubTexture name="C2Pico Idle0000" x="1129" y="517" width="231" height="258" frameX="0" frameY="-6" frameWidth="234" frameHeight="265" />
+<SubTexture name="C2Pico Idle0001" x="1129" y="517" width="231" height="258" frameX="0" frameY="-6" frameWidth="234" frameHeight="265" />
+<SubTexture name="C2Pico Idle0002" x="899" y="0" width="229" height="260" frameX="-1" frameY="-5" frameWidth="234" frameHeight="265" />
+<SubTexture name="C2Pico Idle0003" x="899" y="0" width="229" height="260" frameX="-1" frameY="-5" frameWidth="234" frameHeight="265" />
+<SubTexture name="C2Pico Idle0004" x="456" y="0" width="228" height="263" frameX="-2" frameY="-2" frameWidth="234" frameHeight="265" />
+<SubTexture name="C2Pico Idle0005" x="456" y="0" width="228" height="263" frameX="-2" frameY="-2" frameWidth="234" frameHeight="265" />
+<SubTexture name="C2Pico Idle0006" x="228" y="0" width="228" height="264" frameX="-2" frameY="0" frameWidth="234" frameHeight="265" />
+<SubTexture name="C2Pico Idle0007" x="228" y="0" width="228" height="264" frameX="-2" frameY="0" frameWidth="234" frameHeight="265" />
+<SubTexture name="C2Pico Idle0008" x="0" y="0" width="228" height="265" frameX="-2" frameY="0" frameWidth="234" frameHeight="265" />
+<SubTexture name="C2Pico Idle0009" x="0" y="0" width="228" height="265" frameX="-2" frameY="0" frameWidth="234" frameHeight="265" />
+<SubTexture name="C2Pico Idle0010" x="0" y="0" width="228" height="265" frameX="-2" frameY="0" frameWidth="234" frameHeight="265" />
+<SubTexture name="C2Pico Idle0011" x="0" y="0" width="228" height="265" frameX="-2" frameY="0" frameWidth="234" frameHeight="265" />
+<SubTexture name="C2Pico Idle0012" x="0" y="0" width="228" height="265" frameX="-2" frameY="0" frameWidth="234" frameHeight="265" />
+<SubTexture name="C2Pico Idle0013" x="0" y="0" width="228" height="265" frameX="-2" frameY="0" frameWidth="234" frameHeight="265" />
+<SubTexture name="C2Pico Left0000" x="420" y="265" width="217" height="262" frameX="-8" frameY="-7" frameWidth="233" frameHeight="269" />
+<SubTexture name="C2Pico Left0001" x="420" y="265" width="217" height="262" frameX="-8" frameY="-7" frameWidth="233" frameHeight="269" />
+<SubTexture name="C2Pico Left0002" x="429" y="527" width="218" height="261" frameX="-9" frameY="-8" frameWidth="233" frameHeight="269" />
+<SubTexture name="C2Pico Left0003" x="429" y="527" width="218" height="261" frameX="-9" frameY="-8" frameWidth="233" frameHeight="269" />
+<SubTexture name="C2Pico Left0004" x="0" y="527" width="216" height="262" frameX="-9" frameY="-8" frameWidth="233" frameHeight="269" />
+<SubTexture name="C2Pico Left0005" x="0" y="527" width="216" height="262" frameX="-9" frameY="-8" frameWidth="233" frameHeight="269" />
+<SubTexture name="C2Pico Left0006" x="684" y="0" width="215" height="262" frameX="-9" frameY="-7" frameWidth="233" frameHeight="269" />
+<SubTexture name="C2Pico Left0007" x="684" y="0" width="215" height="262" frameX="-9" frameY="-7" frameWidth="233" frameHeight="269" />
+<SubTexture name="C2Pico Left0008" x="684" y="0" width="215" height="262" frameX="-9" frameY="-7" frameWidth="233" frameHeight="269" />
+<SubTexture name="C2Pico Left0009" x="684" y="0" width="215" height="262" frameX="-9" frameY="-7" frameWidth="233" frameHeight="269" />
+<SubTexture name="C2Pico Left0010" x="684" y="0" width="215" height="262" frameX="-9" frameY="-7" frameWidth="233" frameHeight="269" />
+<SubTexture name="C2Pico Left0011" x="684" y="0" width="215" height="262" frameX="-9" frameY="-7" frameWidth="233" frameHeight="269" />
+<SubTexture name="C2Pico Left0012" x="684" y="0" width="215" height="262" frameX="-9" frameY="-7" frameWidth="233" frameHeight="269" />
+<SubTexture name="C2Pico Left0013" x="684" y="0" width="215" height="262" frameX="-9" frameY="-7" frameWidth="233" frameHeight="269" />
+<SubTexture name="C2Pico Right0000" x="0" y="1048" width="240" height="258" frameX="-3" frameY="-3" frameWidth="243" frameHeight="261" />
+<SubTexture name="C2Pico Right0001" x="0" y="1048" width="240" height="258" frameX="-3" frameY="-3" frameWidth="243" frameHeight="261" />
+<SubTexture name="C2Pico Right0002" x="706" y="1048" width="241" height="256" frameX="0" frameY="-5" frameWidth="243" frameHeight="261" />
+<SubTexture name="C2Pico Right0003" x="706" y="1048" width="241" height="256" frameX="0" frameY="-5" frameWidth="243" frameHeight="261" />
+<SubTexture name="C2Pico Right0004" x="692" y="1307" width="233" height="255" frameX="-3" frameY="-6" frameWidth="243" frameHeight="261" />
+<SubTexture name="C2Pico Right0005" x="692" y="1307" width="233" height="255" frameX="-3" frameY="-6" frameWidth="243" frameHeight="261" />
+<SubTexture name="C2Pico Right0006" x="0" y="1307" width="232" height="256" frameX="-3" frameY="-5" frameWidth="243" frameHeight="261" />
+<SubTexture name="C2Pico Right0007" x="0" y="1307" width="232" height="256" frameX="-3" frameY="-5" frameWidth="243" frameHeight="261" />
+<SubTexture name="C2Pico Right0008" x="0" y="1307" width="232" height="256" frameX="-3" frameY="-5" frameWidth="243" frameHeight="261" />
+<SubTexture name="C2Pico Right0009" x="0" y="1307" width="232" height="256" frameX="-3" frameY="-5" frameWidth="243" frameHeight="261" />
+<SubTexture name="C2Pico Right0010" x="0" y="1307" width="232" height="256" frameX="-3" frameY="-5" frameWidth="243" frameHeight="261" />
+<SubTexture name="C2Pico Right0011" x="0" y="1307" width="232" height="256" frameX="-3" frameY="-5" frameWidth="243" frameHeight="261" />
+<SubTexture name="C2Pico Right0012" x="0" y="1307" width="232" height="256" frameX="-3" frameY="-5" frameWidth="243" frameHeight="261" />
+<SubTexture name="C2Pico Right0013" x="0" y="1307" width="232" height="256" frameX="-3" frameY="-5" frameWidth="243" frameHeight="261" />
+<SubTexture name="C2Pico Up0000" x="899" y="260" width="225" height="259" frameX="-4" frameY="-15" frameWidth="251" frameHeight="274" />
+<SubTexture name="C2Pico Up0001" x="899" y="260" width="225" height="259" frameX="-4" frameY="-15" frameWidth="251" frameHeight="274" />
+<SubTexture name="C2Pico Up0002" x="232" y="1307" width="232" height="255" frameX="-1" frameY="-19" frameWidth="251" frameHeight="274" />
+<SubTexture name="C2Pico Up0003" x="232" y="1307" width="232" height="255" frameX="-1" frameY="-19" frameWidth="251" frameHeight="274" />
+<SubTexture name="C2Pico Up0004" x="1590" y="0" width="232" height="254" frameX="-1" frameY="-20" frameWidth="251" frameHeight="274" />
+<SubTexture name="C2Pico Up0005" x="1590" y="0" width="232" height="254" frameX="-1" frameY="-20" frameWidth="251" frameHeight="274" />
+<SubTexture name="C2Pico Up0006" x="1152" y="1307" width="229" height="254" frameX="-1" frameY="-19" frameWidth="251" frameHeight="274" />
+<SubTexture name="C2Pico Up0007" x="1152" y="1307" width="229" height="254" frameX="-1" frameY="-19" frameWidth="251" frameHeight="274" />
+<SubTexture name="C2Pico Up0008" x="1152" y="1307" width="229" height="254" frameX="-1" frameY="-19" frameWidth="251" frameHeight="274" />
+<SubTexture name="C2Pico Up0009" x="1152" y="1307" width="229" height="254" frameX="-1" frameY="-19" frameWidth="251" frameHeight="274" />
+<SubTexture name="C2Pico Up0010" x="1152" y="1307" width="229" height="254" frameX="-1" frameY="-19" frameWidth="251" frameHeight="274" />
+<SubTexture name="C2Pico Up0011" x="1152" y="1307" width="229" height="254" frameX="-1" frameY="-19" frameWidth="251" frameHeight="274" />
+<SubTexture name="C2Pico Up0012" x="1152" y="1307" width="229" height="254" frameX="-1" frameY="-19" frameWidth="251" frameHeight="274" />
+<SubTexture name="C2Pico Up0013" x="1152" y="1307" width="229" height="254" frameX="-1" frameY="-19" frameWidth="251" frameHeight="274" />
+</TextureAtlas>
