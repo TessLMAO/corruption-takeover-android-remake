@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fogthing.png">
+<SubTexture name="fog instancia 10000" x="0" y="0" width="1090" height="629" frameX="-144" frameY="-113" frameWidth="1366" frameHeight="864" />
+</TextureAtlas>
