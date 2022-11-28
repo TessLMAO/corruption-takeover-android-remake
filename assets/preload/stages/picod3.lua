@@ -8,7 +8,7 @@ function onCreate()
 	makeLuaSprite('parkingbg', 'picod3/parkingbg', -70, -300);
 	scaleObject('parkingbg', 1, 1.0)
 	addLuaSprite('parkingbg', false);
-
+if not lowQuality then
 	makeAnimatedLuaSprite('LeftBoppers','picod3/LeftBoppers',15,250)
 	addAnimationByIndices('LeftBoppers', 'idle', 'Boppers LEFT','0,1,2,3,4,5,6,7,8,9,10,11,12,13,14',24)
 	scaleObject('LeftBoppers', 0.9, 0.9)
@@ -24,7 +24,7 @@ function onCreate()
 	setObjectCamera('out', 'other');
 	addLuaSprite('out', true);
 	setProperty('out.alpha', 0);
-
+end
 	--PreCache No eliminar
 	precacheImage('picod3/tvscreen')
 	precacheImage('picod3/scenes')
@@ -40,6 +40,7 @@ function onCreate()
 	removeLuaSprite('VHS',true)
 	end
 end
+
 	function onBeatHit()
 		if curBeat % 2== 0 then
 	objectPlayAnimation('LeftBoppers', 'idle', false);	
