@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="VHS.png">
+	
+	
+	<SubTexture name="Efecto 0000" x="0" y="0" width="320" height="180" />
+	<SubTexture name="Efecto 0001" x="320" y="0" width="320" height="180" />
+	<SubTexture name="Efecto 0002" x="640" y="0" width="320" height="180" />
+	<SubTexture name="Efecto 0003" x="960" y="0" width="320" height="180" />
+	<SubTexture name="Efecto 0004" x="960" y="0" width="320" height="180" />
+	<SubTexture name="Efecto 0005" x="1280" y="0" width="320" height="180" />
+	<SubTexture name="Efecto 0006" x="1600" y="0" width="320" height="180" />
+	<SubTexture name="Efecto 0007" x="0" y="180" width="320" height="180" />
+	<SubTexture name="Efecto 0008" x="320" y="180" width="320" height="180" />
+	<SubTexture name="Efecto 0009" x="640" y="180" width="320" height="180" />
+	<SubTexture name="Efecto 0010" x="960" y="180" width="320" height="180" />
+	<SubTexture name="Efecto 0011" x="1280" y="180" width="320" height="180" />
+	<SubTexture name="Efecto 0012" x="1600" y="180" width="320" height="180" />
+	<SubTexture name="Efecto 0013" x="0" y="360" width="320" height="180" />
+	<SubTexture name="Efecto 0014" x="320" y="360" width="320" height="180" />
+	<SubTexture name="Efecto 0015" x="640" y="360" width="320" height="180" />
+	<SubTexture name="Efecto 0016" x="960" y="360" width="320" height="180" />
+	<SubTexture name="Efecto 0017" x="1280" y="360" width="320" height="180" />
+	<SubTexture name="Efecto 0018" x="1600" y="360" width="320" height="180" />
+	<SubTexture name="Efecto 0019" x="0" y="540" width="320" height="180" />
+	<SubTexture name="Efecto 0020" x="320" y="540" width="320" height="180" />
+	<SubTexture name="Efecto 0021" x="640" y="540" width="320" height="180" />
+	<SubTexture name="Efecto 0022" x="960" y="540" width="320" height="180" />
+	<SubTexture name="Efecto 0023" x="1280" y="540" width="320" height="180" />
+</TextureAtlas>
