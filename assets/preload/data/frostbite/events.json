@@ -1,0 +1,239 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "mallEvil2",
+		"player1": "WinterBF",
+		"player2": "lemdem",
+		"player3": null,
+		"events": [
+			[
+				30094.3396226415,
+				[
+					[
+						"blackStage",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				30188.679245283,
+				[
+					[
+						"Play Animation",
+						"BF CORR1",
+						"BF"
+					]
+				]
+			],
+			[
+				30943.3962264151,
+				[
+					[
+						"Change Character",
+						"BF",
+						"WinterBF2"
+					]
+				]
+			],
+			[
+				67830.1886792452,
+				[
+					[
+						"blackStage",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				67924.5283018867,
+				[
+					[
+						"Play Animation",
+						"BF CORR2",
+						"BF"
+					]
+				]
+			],
+			[
+				68584.9056603773,
+				[
+					[
+						"Change Character",
+						"BF",
+						"HorrorlandBF"
+					]
+				]
+			],
+			[
+				79905.6603773585,
+				[
+					[
+						"black",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Change Character",
+						"1",
+						"lemhead"
+					]
+				]
+			],
+			[
+				104245.283018868,
+				[
+					[
+						"blackStage",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				104339.62264151,
+				[
+					[
+						"black",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				104433.962264151,
+				[
+					[
+						"Change Character",
+						"1",
+						"lemdem"
+					]
+				]
+			],
+			[
+				126981.132075472,
+				[
+					[
+						"Play Animation",
+						"BF CORR",
+						"BF"
+					]
+				]
+			],
+			[
+				127169.811320755,
+				[
+					[
+						"Play Animation",
+						"BF CORR",
+						"BF"
+					]
+				]
+			],
+			[
+				127358.490566038,
+				[
+					[
+						"Play Animation",
+						"BF CORR",
+						"BF"
+					]
+				]
+			],
+			[
+				127547.169811321,
+				[
+					[
+						"Play Animation",
+						"BF CORR",
+						"BF"
+					]
+				]
+			],
+			[
+				127830.188679245,
+				[
+					[
+						"Play Animation",
+						"BF CORR",
+						"BF"
+					]
+				]
+			],
+			[
+				128018.867924528,
+				[
+					[
+						"Play Animation",
+						"BF CORR",
+						"BF"
+					]
+				]
+			],
+			[
+				128207.547169811,
+				[
+					[
+						"Play Animation",
+						"BF CORR",
+						"BF"
+					]
+				]
+			],
+			[
+				128396.226415095,
+				[
+					[
+						"Change Character",
+						"BF",
+						"CorruptedBoyfriend"
+					]
+				]
+			],
+			[
+				128490.566037736,
+				[
+					[
+						"black",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				153490.566037736,
+				[
+					[
+						"Play Animation",
+						"transition",
+						"BF"
+					]
+				]
+			],
+			[
+				153962.264150944,
+				[
+					[
+						"Alt Idle Animation",
+						"BF",
+						"-alt"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "evilgf",
+		"bpm": 159,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Frostbite"
+	}
+}
