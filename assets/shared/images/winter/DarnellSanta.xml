@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="DarnellSanta.png" width="2182" height="1568">
+  <SubTexture name="Bottom Corrupted Boppers0002" x="0" y="0"  width="1088" height="789" frameX="-3" frameY="-11" frameWidth="1094" frameHeight="802"/>
+  <SubTexture name="Bottom Corrupted Boppers0000" x="0" y="789"  width="1094" height="779" frameX="-0" frameY="-20" frameWidth="1094" frameHeight="802"/>
+  <SubTexture name="Bottom Corrupted Boppers0001" x="0" y="789"  width="1094" height="779" frameX="-0" frameY="-20" frameWidth="1094" frameHeight="802"/>
+  <SubTexture name="Bottom Corrupted Boppers0003" x="0" y="0"  width="1088" height="789" frameX="-3" frameY="-11" frameWidth="1094" frameHeight="802"/>
+  <SubTexture name="Bottom Level Boppers0000" x="1088" y="0"  width="1094" height="779" frameX="-0" frameY="-20" frameWidth="1094" frameHeight="802"/>
+  <SubTexture name="Bottom Level Boppers0002" x="1094" y="779"  width="1088" height="789" frameX="-3" frameY="-11" frameWidth="1094" frameHeight="802"/>
+  <SubTexture name="Bottom Level Boppers0001" x="1088" y="0"  width="1094" height="779" frameX="-0" frameY="-20" frameWidth="1094" frameHeight="802"/>
+  <SubTexture name="Bottom Level Boppers0003" x="1094" y="779"  width="1088" height="789" frameX="-3" frameY="-11" frameWidth="1094" frameHeight="802"/>
+</TextureAtlas>
