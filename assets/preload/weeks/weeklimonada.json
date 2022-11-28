@@ -1,0 +1,32 @@
+{
+	"storyName": "limonada",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "lem",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"frostbite",
+			"lmod",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"lemdem",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

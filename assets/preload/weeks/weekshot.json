@@ -1,0 +1,50 @@
+{
+	"storyName": "point blank rap",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "a",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"pico",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"loaded",
+			"pico1",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"unable",
+			"pico1",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"one shot",
+			"pico2",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
