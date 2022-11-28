@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SkidNeneStand.png">
+<SubTexture name="Nene Stand Idle0000" x="0" y="0" width="302" height="281" frameX="-1" frameY="-9" frameWidth="302" frameHeight="289" />
+<SubTexture name="Nene Stand Idle0001" x="0" y="0" width="302" height="281" frameX="-1" frameY="-9" frameWidth="302" frameHeight="289" />
+<SubTexture name="Nene Stand Idle0002" x="302" y="0" width="302" height="283" frameX="-1" frameY="-7" frameWidth="302" frameHeight="289" />
+<SubTexture name="Nene Stand Idle0003" x="302" y="0" width="302" height="283" frameX="-1" frameY="-7" frameWidth="302" frameHeight="289" />
+<SubTexture name="Nene Stand Idle0004" x="604" y="0" width="301" height="285" frameX="-2" frameY="-4" frameWidth="302" frameHeight="289" />
+<SubTexture name="Nene Stand Idle0005" x="604" y="0" width="301" height="285" frameX="-2" frameY="-4" frameWidth="302" frameHeight="289" />
+<SubTexture name="Nene Stand Idle0006" x="905" y="0" width="300" height="286" frameX="-2" frameY="-4" frameWidth="302" frameHeight="289" />
+<SubTexture name="Nene Stand Idle0007" x="905" y="0" width="300" height="286" frameX="-2" frameY="-4" frameWidth="302" frameHeight="289" />
+<SubTexture name="Nene Stand Idle0008" x="0" y="286" width="300" height="286" frameX="-3" frameY="-4" frameWidth="302" frameHeight="289" />
+<SubTexture name="Nene Stand Idle0009" x="0" y="286" width="300" height="286" frameX="-3" frameY="-4" frameWidth="302" frameHeight="289" />
+<SubTexture name="Nene Stand Idle0010" x="0" y="286" width="300" height="286" frameX="-3" frameY="-4" frameWidth="302" frameHeight="289" />
+<SubTexture name="Nene Stand Idle0011" x="0" y="286" width="300" height="286" frameX="-3" frameY="-4" frameWidth="302" frameHeight="289" />
+<SubTexture name="Nene Stand Idle0012" x="0" y="286" width="300" height="286" frameX="-3" frameY="-4" frameWidth="302" frameHeight="289" />
+<SubTexture name="Nene Stand Idle0013" x="0" y="286" width="300" height="286" frameX="-3" frameY="-4" frameWidth="302" frameHeight="289" />
+<SubTexture name="Nene ALT Stand Idle0000" x="300" y="286" width="302" height="283" frameX="-1" frameY="-9" frameWidth="302" frameHeight="292" />
+<SubTexture name="Nene ALT Stand Idle0001" x="300" y="286" width="302" height="283" frameX="-1" frameY="-9" frameWidth="302" frameHeight="292" />
+<SubTexture name="Nene ALT Stand Idle0002" x="602" y="286" width="302" height="285" frameX="-1" frameY="-7" frameWidth="302" frameHeight="292" />
+<SubTexture name="Nene ALT Stand Idle0003" x="602" y="286" width="302" height="285" frameX="-1" frameY="-7" frameWidth="302" frameHeight="292" />
+<SubTexture name="Nene ALT Stand Idle0004" x="904" y="286" width="301" height="288" frameX="-1" frameY="-4" frameWidth="302" frameHeight="292" />
+<SubTexture name="Nene ALT Stand Idle0005" x="904" y="286" width="301" height="288" frameX="-1" frameY="-4" frameWidth="302" frameHeight="292" />
+<SubTexture name="Nene ALT Stand Idle0006" x="0" y="574" width="301" height="289" frameX="-1" frameY="-4" frameWidth="302" frameHeight="292" />
+<SubTexture name="Nene ALT Stand Idle0007" x="0" y="574" width="301" height="289" frameX="-1" frameY="-4" frameWidth="302" frameHeight="292" />
+<SubTexture name="Nene ALT Stand Idle0008" x="301" y="574" width="300" height="289" frameX="-2" frameY="-4" frameWidth="302" frameHeight="292" />
+<SubTexture name="Nene ALT Stand Idle0009" x="301" y="574" width="300" height="289" frameX="-2" frameY="-4" frameWidth="302" frameHeight="292" />
+<SubTexture name="Nene ALT Stand Idle0010" x="301" y="574" width="300" height="289" frameX="-2" frameY="-4" frameWidth="302" frameHeight="292" />
+<SubTexture name="Nene ALT Stand Idle0011" x="301" y="574" width="300" height="289" frameX="-2" frameY="-4" frameWidth="302" frameHeight="292" />
+<SubTexture name="Nene ALT Stand Idle0012" x="301" y="574" width="300" height="289" frameX="-2" frameY="-4" frameWidth="302" frameHeight="292" />
+<SubTexture name="Nene ALT Stand Idle0013" x="301" y="574" width="300" height="289" frameX="-2" frameY="-4" frameWidth="302" frameHeight="292" />
+<SubTexture name="Nene LAST Stand Idle0000" x="602" y="574" width="312" height="283" frameX="-2" frameY="-5" frameWidth="314" frameHeight="288" />
+<SubTexture name="Nene LAST Stand Idle0001" x="602" y="574" width="312" height="283" frameX="-2" frameY="-5" frameWidth="314" frameHeight="288" />
+<SubTexture name="Nene LAST Stand Idle0002" x="914" y="574" width="311" height="285" frameX="-3" frameY="-4" frameWidth="314" frameHeight="288" />
+<SubTexture name="Nene LAST Stand Idle0003" x="914" y="574" width="311" height="285" frameX="-3" frameY="-4" frameWidth="314" frameHeight="288" />
+<SubTexture name="Nene LAST Stand Idle0004" x="0" y="863" width="312" height="285" frameX="-2" frameY="-3" frameWidth="314" frameHeight="288" />
+<SubTexture name="Nene LAST Stand Idle0005" x="0" y="863" width="312" height="285" frameX="-2" frameY="-3" frameWidth="314" frameHeight="288" />
+<SubTexture name="Nene LAST Stand Idle0006" x="312" y="863" width="313" height="286" frameX="-1" frameY="-2" frameWidth="314" frameHeight="288" />
+<SubTexture name="Nene LAST Stand Idle0007" x="312" y="863" width="313" height="286" frameX="-1" frameY="-2" frameWidth="314" frameHeight="288" />
+<SubTexture name="Nene LAST Stand Idle0008" x="625" y="863" width="313" height="286" frameX="-1" frameY="-2" frameWidth="314" frameHeight="288" />
+<SubTexture name="Nene LAST Stand Idle0009" x="625" y="863" width="313" height="286" frameX="-1" frameY="-2" frameWidth="314" frameHeight="288" />
+<SubTexture name="Nene LAST Stand Idle0010" x="938" y="863" width="313" height="286" frameX="-1" frameY="-2" frameWidth="314" frameHeight="288" />
+<SubTexture name="Nene LAST Stand Idle0011" x="938" y="863" width="313" height="286" frameX="-1" frameY="-2" frameWidth="314" frameHeight="288" />
+<SubTexture name="Nene LAST Stand Idle0012" x="0" y="1150" width="313" height="286" frameX="-1" frameY="-2" frameWidth="314" frameHeight="288" />
+<SubTexture name="Nene LAST Stand Idle0013" x="0" y="1150" width="313" height="286" frameX="-1" frameY="-2" frameWidth="314" frameHeight="288" />
+<SubTexture name="Nene Worried Idle 0000" x="313" y="1150" width="312" height="277" frameX="-2" frameY="-6" frameWidth="314" frameHeight="282" />
+<SubTexture name="Nene Worried Idle 0001" x="313" y="1150" width="312" height="277" frameX="-2" frameY="-6" frameWidth="314" frameHeight="282" />
+<SubTexture name="Nene Worried Idle 0002" x="625" y="1150" width="311" height="277" frameX="-3" frameY="-5" frameWidth="314" frameHeight="282" />
+<SubTexture name="Nene Worried Idle 0003" x="625" y="1150" width="311" height="277" frameX="-3" frameY="-5" frameWidth="314" frameHeight="282" />
+<SubTexture name="Nene Worried Idle 0004" x="937" y="1150" width="312" height="278" frameX="-2" frameY="-4" frameWidth="314" frameHeight="282" />
+<SubTexture name="Nene Worried Idle 0005" x="937" y="1150" width="312" height="278" frameX="-2" frameY="-4" frameWidth="314" frameHeight="282" />
+<SubTexture name="Nene Worried Idle 0006" x="0" y="1436" width="313" height="279" frameX="-1" frameY="-4" frameWidth="314" frameHeight="282" />
+<SubTexture name="Nene Worried Idle 0007" x="0" y="1436" width="313" height="279" frameX="-1" frameY="-4" frameWidth="314" frameHeight="282" />
+<SubTexture name="Nene Worried Idle 0008" x="313" y="1436" width="313" height="280" frameX="-1" frameY="-2" frameWidth="314" frameHeight="282" />
+<SubTexture name="Nene Worried Idle 0009" x="313" y="1436" width="313" height="280" frameX="-1" frameY="-2" frameWidth="314" frameHeight="282" />
+<SubTexture name="Nene Worried Idle 0010" x="626" y="1436" width="313" height="281" frameX="-1" frameY="-1" frameWidth="314" frameHeight="282" />
+<SubTexture name="Nene Worried Idle 0011" x="626" y="1436" width="313" height="281" frameX="-1" frameY="-1" frameWidth="314" frameHeight="282" />
+<SubTexture name="Nene Worried Idle 0012" x="939" y="1436" width="313" height="281" frameX="-1" frameY="-1" frameWidth="314" frameHeight="282" />
+<SubTexture name="Nene Worried Idle 0013" x="939" y="1436" width="313" height="281" frameX="-1" frameY="-1" frameWidth="314" frameHeight="282" />
+</TextureAtlas>
