@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-24
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Corrupt Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Corrupt Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Corrupt Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Corrupt Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Idle",
+			"indices": [],
+			"name": "Corrupt Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-15
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Corrupt End",
+			"indices": []
+		},
+		{
+			"offsets": [
+				209,
+				46
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "transition",
+			"loop": false,
+			"name": "BF CORR"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CorruptedBoyfriend",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bfcorrupt",
+	"flip_x": true,
+	"healthbar_colors": [
+		230,
+		33,
+		69
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

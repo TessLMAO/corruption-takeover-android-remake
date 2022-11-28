@@ -8,159 +8,148 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "BF Idle",
+			"name": "Pico Idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-2,
-				-3
+				20,
+				8
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "BF Left",
+			"name": "Pico Left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-29,
-				-25
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "BF Down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-4,
-				8
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "BF Up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-35,
-				-7
+				0,
+				-5
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "BF Right",
+			"name": "Pico Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				22
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Pico Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pico Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				120
+			],
+			"anim": "shoot",
+			"fps": 20,
+			"name": "Gunshot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				21
+			],
+			"anim": "reload",
+			"fps": 24,
+			"name": "Reload",
 			"indices": []
 		},
 		{
 			"offsets": [
-				-2,
-				-24
+				32,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Pico ALT Idle"
+		},
+		{
+			"offsets": [
+				25,
+				0
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT-alt",
 			"indices": [],
-			"name": "BF ALT Left"
+			"name": "Pico ALT Left"
 		},
 		{
 			"offsets": [
-				30,
-				-35
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN-alt",
-			"indices": [],
-			"name": "BF ALT Down"
-		},
-		{
-			"offsets": [
-				-30,
-				-1
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP-alt",
-			"indices": [],
-			"name": "BF ALT Up"
-		},
-		{
-			"offsets": [
-				-21,
-				-25
+				3,
+				-14
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT-alt",
 			"indices": [],
-			"name": "BF ALT Right"
+			"name": "Pico ALT Right"
 		},
 		{
 			"offsets": [
-				108,
-				279
+				1,
+				12
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singLEFTmiss",
+			"anim": "singUP-alt",
 			"indices": [],
-			"name": "BF MISS Left"
+			"name": "Pico ALT Up"
 		},
 		{
 			"offsets": [
-				84,
-				267
+				1,
+				-18
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singRIGHTmiss",
+			"anim": "singDOWN-alt",
 			"indices": [],
-			"name": "BF MISS Right"
-		},
-		{
-			"offsets": [
-				50,
-				285
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "BF MISS Up"
-		},
-		{
-			"offsets": [
-				91,
-				227
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "BF MISS Down"
+			"name": "Pico ALT Down"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/boyfriendcorruptd3",
+	"image": "characters/PicoDay2",
 	"position": [
-		60,
-		410
+		260,
+		460
 	],
-	"healthicon": "boyfriend1",
-	"flip_x": true,
+	"healthicon": "pico1",
+	"flip_x": false,
 	"healthbar_colors": [
-		9,
-		7,
-		25
+		183,
+		216,
+		85
 	],
 	"camera_position": [
-		220,
-		90
+		-290,
+		-230
 	],
-	"sing_duration": 5,
-	"scale": 1.5
+	"sing_duration": 4,
+	"scale": 1.6
 }
